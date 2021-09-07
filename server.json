@@ -1,0 +1,83 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 2
+    },
+    {
+      "id": 4,
+      "amount": 1
+    },
+    {
+      "id": 5,
+      "amount": 5
+    },
+    {
+      "id": 6,
+      "amount": 10
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Iphone Fake",
+      "price": 179.9,
+      "image": "https://a-static.mlcdn.com.br/1500x1500/iphone-11-apple-64gb-branco-61-12mp-ios/magazineluiza/155614100/af1cd7d9c89d7306b52490a0ce1b8b34.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Iphone Fake",
+      "price": 139.9,
+      "image": "https://a-static.mlcdn.com.br/1500x1500/iphone-11-apple-64gb-branco-61-12mp-ios/magazineluiza/155614100/af1cd7d9c89d7306b52490a0ce1b8b34.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Iphone Fake",
+      "price": 219.9,
+      "image": "https://a-static.mlcdn.com.br/1500x1500/iphone-11-apple-64gb-branco-61-12mp-ios/magazineluiza/155614100/af1cd7d9c89d7306b52490a0ce1b8b34.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Iphone Fake",
+      "price": 139.9,
+      "image": "https://a-static.mlcdn.com.br/1500x1500/iphone-11-apple-64gb-branco-61-12mp-ios/magazineluiza/155614100/af1cd7d9c89d7306b52490a0ce1b8b34.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Iphone Fake",
+      "price": 219.9,
+      "image": "https://a-static.mlcdn.com.br/1500x1500/iphone-11-apple-64gb-branco-61-12mp-ios/magazineluiza/155614100/af1cd7d9c89d7306b52490a0ce1b8b34.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Iphone Fake",
+      "price": 179.9,
+      "image": "https://a-static.mlcdn.com.br/1500x1500/iphone-11-apple-64gb-branco-61-12mp-ios/magazineluiza/155614100/af1cd7d9c89d7306b52490a0ce1b8b34.jpg"
+    }
+  ],
+  "store": [
+    {
+      "id": 1,
+      "name": "Nome da Loja",
+      "city": "São Paulo"
+    },
+    {
+      "id": 2,
+      "name": "Nome da Loja",
+      "city": "São Paulo"
+    },
+    {
+      "id": 3,
+      "name": "Nome da Loja",
+      "city": "São Paulo"
+    }
+  ]
+}
