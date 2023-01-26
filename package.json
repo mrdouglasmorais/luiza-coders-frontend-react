@@ -10,7 +10,7 @@
     "history": "^4.10.1",
     "immer": "^6.0.3",
     "polished": "^3.5.1",
-    "react": "^18.0.0-alpha-1314299c7-20210901",
+    "react": "^17.0.2",
     "react-dom": "^16.13.1",
     "react-icons": "^3.9.0",
     "react-redux": "^7.2.0",
@@ -26,8 +26,8 @@
     "sweetalert": "^2.1.2"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
+    "start": "react-scripts --openssl-legacy-provider start",
+    "build": "react-scripts --openssl-legacy-provider build",
     "test": "react-scripts test",
     "server": "json-server ./server.json -p 3333",
     "eject": "react-scripts eject"
